@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\musta\\Desktop\\work\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\musta\\Desktop\\work\\CsharpProjects\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Final\\Final.csproj": {}
   },
   "projects": {
-    "c:\\Users\\musta\\Desktop\\work\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\musta\\Desktop\\work\\CsharpProjects\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Final\\Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\musta\\Desktop\\work\\CsharpProjects\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "c:\\Users\\musta\\Desktop\\work\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\Desktop\\work\\CsharpProjects\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+        "projectName": "Final",
+        "projectPath": "C:\\Users\\musta\\Desktop\\work\\CsharpProjects\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\musta\\Desktop\\work\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\musta\\Desktop\\work\\CsharpProjects\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config"
